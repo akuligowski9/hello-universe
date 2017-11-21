@@ -3,7 +3,7 @@
 #include<stdio.h>
 main()
 {
-  printf("Hello Planet")
+  printf("Hello Planets")
   
   }
   
